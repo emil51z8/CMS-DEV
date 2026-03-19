@@ -1,0 +1,12 @@
+.simple-footer {
+    background: #527676;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin-top: 40px;
+}
+
+.simple-footer p {
+    margin: 0;
+    font-size: 14px;
+}
