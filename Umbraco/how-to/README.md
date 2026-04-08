@@ -31,4 +31,4 @@ Denne guide viser hvordan man opsætter en simpel hjemmeside i Umbraco med:
     - opret ny query: CTRL+Shift+p og skriv CREATE DATABASE umbraco;
     - edit connection og skift databasenavnet fra master til umbraco
 
- 
+ 8. Gennemfør resten af installationen i browseren (NB husk dotnet run i terminal hvis ikke den allerede kører).
