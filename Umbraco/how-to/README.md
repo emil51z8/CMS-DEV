@@ -1,6 +1,6 @@
 # Umbraco installation og opsætning
 
-<h1>Introduktion</h1>
+## Introduktion
 Denne guide viser hvordan man opsætter en simpel hjemmeside i Umbraco med:
 - Forside
 - Menu
