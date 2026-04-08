@@ -32,3 +32,45 @@ Denne guide viser hvordan man opsætter en simpel hjemmeside i Umbraco med:
     - edit connection og skift databasenavnet fra master til umbraco
 
  8. Gennemfør resten af installationen i browseren (NB husk dotnet run i terminal hvis ikke den allerede kører).
+
+
+ ## Opret Document Types
+
+### Site
+- Title (textstring)
+- BodyText (rich text)
+- HeroText (textstring)
+
+### Person (Site2)
+- Image (media picker)
+
+
+## Content struktur
+
+- Forside
+  - Om os
+    - Person (med billede)
+  - Kontakt
+
+
+## Template
+
+Template viser:
+- Menu
+- Hero
+- Body text
+- Team (children)
+- Kontaktformular
+
+
+## Styling
+
+Der bruges simpel CSS direkte i template:
+- Navbar
+- Cards
+- Responsive layout
+
+
+## Kontaktformular
+
+Formularen er en simpel HTML form (ingen backend endnu)
